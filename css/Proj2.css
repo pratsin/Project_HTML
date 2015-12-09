@@ -1,0 +1,103 @@
+
+
+ .First.grid_3 h1
+ {
+    font-size: 60px;
+
+ }
+
+ .Second.container_12{
+   padding-top: 20px;
+ }
+.First.grid_9 li
+{
+  display: inline;
+  text-decoration: none;
+  padding-left: 40px;
+  color: white;
+}
+.First.grid_9{
+  padding-top: 30px;
+}
+.First.grid_9 li:hover
+{
+  text-transform: uppercase;
+}
+
+.Ninth.container_12
+{
+  padding-bottom: 30px;
+}
+.Eleventh_4.grid_1{
+  padding-top: 20px;
+}
+
+header{
+  height: 100px;
+   background-color: #777;
+  }
+.First.grid_3 h1
+{
+ color: white;
+}
+
+.Third.grid_12 h1{
+
+  text-align: center;
+  font-size: 40px;
+  color: #777;
+  padding-top: 40px;
+
+}
+
+.Third_1.grid_12 p{
+  padding-top: 30px;
+}
+
+.Second_1.grid_5, .Second_2.grid_5{
+padding-top: 40px;
+}
+
+
+
+
+
+.Fourth.grid_4, .Fourth_1.grid_4, .Fourth_2.grid_4
+{
+  padding-top: 40px;
+}
+
+.Fifth.grid_4, .Fifth_1.grid_4, .Fifth_2.grid_4
+{
+  padding-top: 29px;
+}
+
+
+
+.Sixth.grid_4, .Sixth_1.grid_4, .Sixth_2.grid_4
+{
+  padding-top: 40px;
+}
+
+.Seventh.grid_4, .Seventh_1.grid_4, .Seventh_2.grid_4
+{
+  padding-top: 34px;
+}
+
+.Eighth.grid_4, .Eighth_1.grid_4, .Eighth_2.grid_4
+{
+  padding-top: 30px;
+}
+
+.Ninth.grid_4, .Ninth_1.grid_4, .Ninth_2.grid_4
+{
+  padding-top: 27px;
+}
+
+footer
+{
+  background-color: #777;
+  color: white;
+  font-size: .8em;
+
+}

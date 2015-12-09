@@ -1,0 +1,147 @@
+
+
+.Second.grid_12{
+  padding-top: 8px;
+   color: #777;
+}
+
+section{
+  background-color: #F5F5DC;
+}
+header{
+  background-color: #777;
+}
+.First.grid_8
+{
+   margin-left: 250px;
+}
+.Ninth_1.grid_12, .Eighth.grid_3, .Eighth_1.grid_3, .Eighth_2.grid_3, .Eighth_3.grid_3, .Eighth_4.grid_3, .Tenth.grid_6
+{
+  color: #777;
+}
+
+ .Fifth.container_12{
+
+ padding-top: 10px;
+
+ }
+
+
+ footer
+ {
+
+   background-color: #777;
+   color: white;
+ }
+
+.Seventh.grid_12 h2
+{
+   color: white;
+   text-align: center;
+}
+
+.Tenth.container_12
+{
+  padding-bottom: 20px;
+}
+.Eighth.container_12{
+  font-size: 17px;
+}
+
+
+  .Third.container_12, .Sixth.container_12{
+    text-align: center;
+    padding-top: 40px;
+    color: #777;
+  }
+
+  .Second.grid_9 .Content
+  {
+    margin-left: 600px;
+  }
+
+
+     .Third.grid_12
+     {
+       color: #777;
+     }
+     .Ninth.grid_12 h1
+     {
+       color: #777;
+
+
+     }
+
+    .Fourth.container_12
+    {
+      padding-top: 50px;
+    }
+     .Fifth.container_12
+     {
+      font-size: 17px;
+       color: #777;
+     }
+
+     .Sixth.container_12
+  {
+    text-align: center;
+     color: #777;
+    }
+ .Sixth.container_12, .Sixth_1.grid_12
+ {
+     font-size: 14px;
+ }
+
+  .Seventh.grid_12
+  {
+    background-image: url(../img/School.jpg);
+     background-repeat: no-repeat;
+      padding-top: 350px;
+       background-position: bottom;
+  }
+
+
+    .Ninth.container_12
+    {
+      padding-top: 50px;
+    }
+
+header li
+  {
+
+    display: inline;
+    }
+
+header ul
+   {
+      padding-top: 25px;
+    }
+
+header li a
+    {
+      text-decoration: none;
+      color: white;
+      font-size: 16px;
+    }
+
+   header li:hover
+   {
+    color:grey;
+    text-transform: uppercase;
+    font-family: cursive;
+  }
+
+.Tenth.container_12
+{
+     padding-top: 70px;
+   }
+
+  .Eleventh_2.grid_4 .First,.Eleventh_1.grid_4 .Pun h1
+   {
+     font-size: 18px;
+   }
+
+  .Eleventh.container_12
+  {
+    padding-top: 12px;
+  }
